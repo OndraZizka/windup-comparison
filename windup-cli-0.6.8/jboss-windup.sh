@@ -1,0 +1,4 @@
+#java -jar windup-cli.jar -fetchRemote true -javaPkgs com.acme -input ../../TestApps/jbilling-community-3.1.0.zip
+#java -jar windup-cli.jar -fetchRemote true -javaPkgs com.acme -input ../../TestApps/Windup1x-javaee-example.war
+java -jar windup-cli.jar -fetchRemote true -javaPkgs com.acme -input ../../TestApps/jee-example-app-1.0.0.ear
+
